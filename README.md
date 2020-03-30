@@ -1,0 +1,2 @@
+# Chief-Bot
+Discord
